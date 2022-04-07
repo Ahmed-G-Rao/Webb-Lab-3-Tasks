@@ -1,0 +1,27 @@
+/* TASK NO 1 */
+.progress{
+    width: 30%;
+margin-left: 450px;
+margin-top: 20px;
+}
+
+/* TASK NO 2 */
+.centered{
+    margin-left: 42%;
+}
+
+.button{
+    background-color: white;
+    width: 100px;
+    height: 40px;
+    border: 1px;
+    border-style: solid;
+    border-color: rgb(231, 230, 230);
+    border-radius: 50px;
+    color:dodgerblue;
+}
+
+/* TASK No 3 */
+.alerts{
+    width: 42%;
+}
